@@ -22,8 +22,8 @@ This project is a web application that generates children's stories with audio n
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ai-story-generator.git
-    cd ai-story-generator
+    git clone [https://github.com/your-username/ai-story-generator.git](https://github.com/carlicode/Story-Generator.git)
+    cd Story-Generator
     ```
 
 2. Set up a virtual environment:
